@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saigontravel.xyz/sitemap.xml
